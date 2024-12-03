@@ -43,7 +43,7 @@ I’m Amdebirhan, a passionate Full Stack Developer specializing in web and mobi
 
 ## 📂 My Projects:
 - 🚀 [Collaborative Todo App](https://github.com/amde-asme-prog/todo-app) - Real-time collaboration and chat using Firebase.
-- 🎨 [Portfolio Website](https://github.com/amde-asme-prog/portfolio) - Personal portfolio with dynamic animations using Framer Motion.
+- 🎨 [Portfolio Website](https://amdebirhanasmamaw.netlify.app) - Personal portfolio with dynamic animations using Framer Motion.
 ![Amdebirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amde-asme-prog&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amde-asme-prog&layout=compact)](https://github.com/amde-asme-prog/github-readme-stats)
 
