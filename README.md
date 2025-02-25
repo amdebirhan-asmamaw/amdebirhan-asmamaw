@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub Profile!
+ # 👋 Welcome to My GitHub Profile!
 
-Hi there! I’m **Amdebirhan**, a passionate **Flutter Developer** specializing in building robust, user-friendly mobile applications. With a strong foundation in both frontend and backend development, I enjoy crafting solutions that solve real-world problems and deliver seamless experiences.
+Hi there! I’m **Amdebirhan**, a passionate **Frontend & Mobile Developer** specializing in building high-performance, user-friendly web and mobile applications. With expertise in **React, Next.js, Flutter, and Laravel**, I enjoy crafting seamless digital experiences that solve real-world problems.
 
 ![Profile views](https://komarev.com/ghpvc/?username=amde-asme-prog&color=green)
 
@@ -9,40 +9,43 @@ Hi there! I’m **Amdebirhan**, a passionate **Flutter Developer** specializing 
 ## 💬 About Me
 
 - 🎓 **Education**: Bachelor's Degree in Computer Science from Bahir Dar University.
-- 💻 **Current Focus**: Developing a collaborative Todo app with chat functionality using **Flutter** and **Firebase**.
-- 🌱 **Learning**: Exploring **React Native**, enhancing my skills in **full-stack development**, and mastering advanced **TypeScript**.
-- 🚀 **Goal**: Secure a role as a **Mobile App Developer** or **Flutter Developer** to contribute to impactful projects.
-- 📫 **Contact Me**: Feel free to reach out via email at [amdebrhanasmamaw93@gmail.com](mailto:amdebrhanasmamaw93@gmail.com).
+- 💻 **Current Focus**: Developing an eCommerce platform with **Flutter**, **React**, and **Laravel**.
+- 🌱 **Learning**: Advancing in **TypeScript**, **React Native**, and **Microservices Architecture**.
+- 🚀 **Goal**: Secure a role as a **Frontend Engineer** or **Full-Stack Developer** to contribute to impactful projects.
+- 📫 **Contact Me**: Reach out via email at [amdebrhanasmamaw93@gmail.com](mailto:amdebrhanasmamaw93@gmail.com).
 
 ---
 
 ## 🛠️ What I’m Currently Working On:
 
-- Building an **eCommerce mobile app** using **Flutter**.
-- Studying **Clean Code Architecture** in Flutter to improve app scalability and maintainability.
-- Implementing real-time collaboration features with **Firebase**.
-- Enhancing my knowledge of **TypeScript** in **React Native**.
-- Optimizing performance and scalability for mobile apps.
+- Building a **cross-platform eCommerce app** using **Flutter & Laravel**.
+- Developing **interactive web applications** with **React, Next.js, and Tailwind CSS**.
+- Implementing **real-time chat** and **collaboration features** with **Firebase**.
+- Enhancing API development skills with **Node.js** and **Laravel**.
+- Studying **Clean Architecture** to improve code scalability and maintainability.
 
 ---
 
 ## 🛠️ My Expertise & Skills
 
-### 📱 Mobile Development
-- **Primary Specialization**: Flutter
-  - Crafting cross-platform mobile apps with smooth animations, responsive UIs, and optimized performance.
-- **Other Frameworks**: React Native
+### 🎨 Frontend Development
+- **React, Next.js** – Crafting fast, interactive, and scalable web applications.
+- **Tailwind CSS, Bootstrap** – Building modern and responsive UIs.
+- **Redux Toolkit, TanStack Query** – Efficient state management and API integration.
 
-### 💻 Backend & Cloud
-- Firebase (Realtime Database, Firestore, Authentication)
-- RESTful APIs
-- Node.js
-- Laravel
+### 📱 Mobile Development
+- **Flutter, React Native** – Creating cross-platform mobile applications with smooth animations.
+- **Firebase** – Authentication, Firestore, Realtime Database, Cloud Functions.
+
+### 🖥️ Backend & APIs
+- **Laravel, Node.js** – Developing scalable REST APIs and backend services.
+- **MySQL, PostgreSQL, MongoDB** – Database design and optimization.
+- **JWT, OAuth** – Secure authentication and authorization.
 
 ### 🧰 Tools & Technologies
-- Version Control: Git, GitHub
-- CI/CD: GitHub Actions, Jenkins
-- Testing: Unit Testing, Integration Testing
+- **Git, GitHub, GitLab** – Version control and collaboration.
+- **Docker, CI/CD (GitHub Actions, Jenkins)** – Streamlining deployments.
+- **Jest, React Testing Library** – Writing unit and integration tests.
 
 ---
 
@@ -51,15 +54,15 @@ Hi there! I’m **Amdebirhan**, a passionate **Flutter Developer** specializing 
 ### 💻 Programming Languages
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) 
 
-### 🧰 Frameworks and Libraries
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) 
+### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square) 
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) 
 
 ### ☁️ Cloud & Database
@@ -69,25 +72,22 @@ Hi there! I’m **Amdebirhan**, a passionate **Flutter Developer** specializing 
 
 ---
 
-## 📫 How to Reach Me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/amdebirhan-asmamaw/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/amde-asme-prog)  
-[![Resume](https://img.shields.io/badge/-Resume-FF4500?logo=adobe-acrobat-reader&logoColor=white&style=flat-square)](https://yourresumelink.com)
-
----
-
 ## 📂 Featured Projects
 
 ### 🚀 Collaborative Todo App
-- **Description**: A real-time collaboration app with chat functionality built using Flutter and Firebase.
-- **Tech Stack**: Flutter, Firebase Firestore, Firebase Authentication
+- **Description**: A real-time collaboration app with chat functionality.
+- **Tech Stack**: Flutter, Firebase Firestore, Firebase Authentication.
 - **Repo**: [Collaborative Todo App](https://github.com/amde-asme-prog/todo-app)
 
 ### 🎨 Portfolio Website
-- **Description**: A dynamic personal portfolio website featuring interactive animations using Framer Motion.
-- **Tech Stack**: Next.js, Framer Motion, Tailwind CSS
+- **Description**: A dynamic personal portfolio website featuring interactive animations.
+- **Tech Stack**: Next.js, Framer Motion, Tailwind CSS.
 - **Live Demo**: [Portfolio Website](https://amdebirhanasmamaw.netlify.app)
+
+### 🛍️ eCommerce Platform
+- **Description**: A multi-vendor eCommerce platform with product listing and payment integration.
+- **Tech Stack**: Flutter, Laravel, MySQL.
+- **Repo**: [eCommerce App](https://github.com/amde-asme-prog/ecommerce-app)
 
 ---
 
@@ -99,9 +99,17 @@ Hi there! I’m **Amdebirhan**, a passionate **Flutter Developer** specializing 
 
 ---
 
-## 💡 Fun Fact
-I love solving coding challenges in my free time and exploring new technologies to stay up-to-date with the latest trends in software development.
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/amdebirhan-asmamaw/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/amde-asme-prog)  
+[![Resume](https://img.shields.io/badge/-Resume-FF4500?logo=adobe-acrobat-reader&logoColor=white&style=flat-square)](https://yourresumelink.com)
 
 ---
 
-Feel free to explore my repositories and connect with me if you'd like to collaborate or discuss anything related to mobile app development! 😊
+## 💡 Fun Fact
+I enjoy solving coding challenges, contributing to open-source projects, and staying up-to-date with the latest trends in frontend and mobile development.
+
+---
+
+Feel free to explore my repositories and connect with me if you'd like to collaborate! 😊
