@@ -1,6 +1,9 @@
- # 👋 Welcome to My GitHub Profile!
 
-Hi there! I’m **Amdebirhan**, a passionate **Frontend & Mobile Developer** specializing in building high-performance, user-friendly web and mobile applications. With expertise in **React, Next.js, Flutter, and Laravel**, I enjoy crafting seamless digital experiences that solve real-world problems.
+# 👋 Welcome to My GitHub Profile!
+
+Hey there! I'm **Amdebirhan**, a dedicated **Frontend & Mobile Developer** with a passion for crafting high-performance, user-focused applications. I specialize in building seamless digital experiences using modern technologies like **React**, **Next.js**, **Flutter**, and **Laravel**.
+
+Whether it's a sleek web interface or a smooth mobile app, I love turning ideas into functional, elegant solutions that solve real-world challenges.
 
 ![Profile views](https://komarev.com/ghpvc/?username=amde-asme-prog&color=green)
 
@@ -8,21 +11,22 @@ Hi there! I’m **Amdebirhan**, a passionate **Frontend & Mobile Developer** spe
 
 ## 💬 About Me
 
-- 🎓 **Education**: Bachelor's Degree in Computer Science from Bahir Dar University.
-- 💻 **Current Focus**: Developing an eCommerce platform with **Flutter**, **React**, and **Laravel**.
-- 🌱 **Learning**: Advancing in **TypeScript**, **React Native**, and **Microservices Architecture**.
-- 🚀 **Goal**: Secure a role as a **Frontend Engineer** or **Full-Stack Developer** to contribute to impactful projects.
+- 🎓 **Education**: Bachelor's Degree in Computer Science from Bahir Dar University.  
+- 💻 **Current Focus**: Developing an eCommerce platform with **Flutter**, **React**, and **Laravel**.  
+- 🌱 **Learning**: Advancing in **React**, **Next.js**, **Flutter**, and **Microservices Architecture**.  
+- 🚀 **Goal**: Secure a role as a **Frontend Engineer** or **Full-Stack Developer** to contribute to impactful projects.  
 - 📫 **Contact Me**: Reach out via email at [amdebrhanasmamaw93@gmail.com](mailto:amdebrhanasmamaw93@gmail.com).
 
 ---
 
 ## 🛠️ What I’m Currently Working On:
 
-- Building a **cross-platform eCommerce app** using **Flutter & Laravel**.
-- Developing **interactive web applications** with **React, Next.js, and Tailwind CSS**.
-- Implementing **real-time chat** and **collaboration features** with **Firebase**.
-- Enhancing API development skills with **Node.js** and **Laravel**.
-- Studying **Clean Architecture** to improve code scalability and maintainability.
+- Building a **cross-platform eCommerce app** using **Flutter & Laravel**  
+- Developing **interactive web applications** with **React, Next.js, and Tailwind CSS**  
+- Implementing **real-time chat** and **collaboration features** with **Firebase**  
+- Enhancing API development skills with **Node.js** and **Laravel**  
+- Studying **Clean Architecture** to improve code scalability and maintainability
+
 
 ---
 
@@ -30,7 +34,7 @@ Hi there! I’m **Amdebirhan**, a passionate **Frontend & Mobile Developer** spe
 
 ### 🎨 Frontend Development
 - **React, Next.js** – Crafting fast, interactive, and scalable web applications.
-- **Tailwind CSS, Bootstrap** – Building modern and responsive UIs.
+- **Tailwind CSS, ** – Building modern and responsive UIs.
 - **Redux Toolkit, TanStack Query** – Efficient state management and API integration.
 
 ### 📱 Mobile Development
