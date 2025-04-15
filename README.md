@@ -89,7 +89,7 @@ A real-time todo list app with live collaboration and chat.
 ### 🎨 Portfolio Website
 Dynamic portfolio with beautiful transitions and responsive layout.
 
-> 🛠 Next.js, Framer Motion, Tailwind CSS  
+> 🛠 React.js, Framer Motion, Tailwind CSS  
 > 🌐 [Live Demo](https://amdebirhanasmamaw.netlify.app)
 
 ### 🛍 eCommerce Platform
