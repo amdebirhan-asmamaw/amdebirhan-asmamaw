@@ -45,8 +45,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack & Mobile Developer**
 
 ### ⚙️ DevOps & Tools
 - **Git**, **GitHub**, **GitLab**
-- **CI/CD** with GitHub Actions & Jenkins
-- **Docker**, **Postman**, **Jest**, **React Testing Library**
+- **CI/CD** with GitHub Actions
+- **Postman**
 
 ---
 
@@ -64,7 +64,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack & Mobile Developer**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) 
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 
 ### ☁️ Cloud & DB
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) 
@@ -107,7 +106,6 @@ Multi-vendor eCommerce system with product management and payments.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/amdebirhan-asmamaw)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/amde-asme-prog)  
-[![Resume](https://img.shields.io/badge/-Resume-FF4500?logo=adobe-acrobat-reader&logoColor=white&style=flat-square)](https://yourresumelink.com)
 
 ---
 
