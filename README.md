@@ -74,12 +74,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack & Mobile Developer**
 
 ## 🌟 Featured Projects
 
-### 🏠 Trust Property Management System
-A property management platform for listing, renting, and managing properties, built with a modular and scalable architecture.
-
-> 🛠 Next.js, TypeScript, Tailwind CSS, shadcn/ui, TanStack Table, MongoDb  
-> 🔗 [View Repo](https://github.com/amde-asme-prog/trust_property_management)
-
 ### ✅ Collaborative Todo App
 A real-time todo list app with live collaboration and chat.
 
