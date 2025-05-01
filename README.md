@@ -70,6 +70,8 @@ Feel free to explore my repositories or reach out to collaborate on meaningful p
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF007C?logo=framer&logoColor=white&style=flat-square)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-black?style=flat-square) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF007C?logo=framer&logoColor=white&style=flat-square)
 
 ### ☁️ Cloud Services & Databases
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
