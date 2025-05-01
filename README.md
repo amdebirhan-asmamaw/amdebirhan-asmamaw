@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Amdebirhan Asmamaw!
+# 👋 Hello, I'm Amdebirhan Asmamaw
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack & Mobile Developer** who loves building modern, scalable, and user-centric digital products. Whether it’s crafting high-performance web apps with **React**, **Next.js**, and **Laravel**, or creating seamless mobile experiences with **Flutter**, I thrive on transforming ideas into real-world solutions.
+Welcome to my GitHub profile! I'm a dedicated **Full-Stack & Mobile Developer** who builds modern, scalable, and user-focused applications. From robust web platforms using **Next.js**, **TypeScript**, and **Laravel**, to elegant mobile apps with **Flutter**, I turn innovative ideas into seamless digital experiences that solve real-world problems.
 
 ![Profile views](https://komarev.com/ghpvc/?username=amde-asme-prog&color=green)
 
@@ -8,67 +8,79 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack & Mobile Developer**
 
 ## 🧠 About Me
 
-- 🎓 **Education**: Bachelor’s Degree in Computer Science from **Bahir Dar University**
-- 💼 **Current Focus**: Building scalable web applications with **Next.js**, **TypeScript**, and **Tailwind CSS**
-- 🧠 **Currently Exploring**: **Microservices Architecture**, **Advanced UI Animations**, and **Backend Integration**
-- 🔭 **Open To**: Frontend or Full-Stack Developer roles focused on modern web technologies
-- 📬 **Reach Me At**: [amdebrhanasmamaw93@gmail.com](mailto:amdebrhanasmamaw93@gmail.com)
+- 🎓 **Education**: BSc in Computer Science from **Bahir Dar University**
+- 💼 **Focus Areas**: Scalable web platforms, responsive UI/UX, and full-stack application architecture
+- 🚀 **Currently Working On**: A property management system built with **Next.js**, **shadcn/ui**, and **TanStack Table**
+- 🧠 **Exploring**: **Microservices**, **Advanced UI animations**, **Clean Architecture**, and secure backend integrations
+- 👀 **Open To**: Opportunities in **Frontend** or **Full-Stack Development**, especially those involving modern JavaScript ecosystems
+- 📬 **Let's Connect**: [amdebrhanasmamaw93@gmail.com](mailto:amdebrhanasmamaw93@gmail.com)
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 What I'm Building Right Now
 
-- 🏠 Architecting a **Property Management System** using **Next.js**, **shadcn/ui**, and **TanStack Table**
-- 🌐 Developing modern, responsive UIs with **Tailwind CSS**, **Framer Motion**, and **TypeScript**
-- 🔐 Implementing secure authentication and RBAC with **NextAuth.js**, **Firebase**, and **Laravel Sanctum**
-- ⚙️ Structuring scalable backend logic and real-time communication with **Firebase Cloud Functions**
-- 📊 Enhancing data handling and UX with **TanStack Query**, **custom hooks**, and **modular components**
-
----
+- 🏠 Architecting a dynamic platform with **Next.js**, **shadcn/ui**, and **TanStack Table** for complex property and tenant workflows
+- 🎯 Designing intuitive, responsive UIs with **Tailwind CSS**, **Framer Motion**, and **modular component architecture**
+- 🔐 Securing data and roles using **NextAuth.js**, **Firebase Auth**, and **Laravel Sanctum**
+- ⚙️ Building scalable backend features with **Firebase Cloud Functions** and structured API layers
+- 📈 Optimizing client-side state management using **TanStack Query**, custom hooks, and clean separation of concerns
 
 ---
 
+Feel free to explore my repositories or reach out to collaborate on meaningful projects!
+
+---
 ## 🧰 Tech Stack
 
-### 👨‍💻 Frontend
+### 👨‍💻 Frontend Development
 - **React.js**, **Next.js**, **shadcn/ui**, **Tailwind CSS**
-- **Redux Toolkit**, **TanStack Query** for API and state management
+- **Redux Toolkit** and **TanStack Query** for scalable state and data management
+- **Framer Motion** for advanced animations and micro-interactions
 
-### 📱 Mobile
-- **Flutter**, **Dart**, **BLoC**, **Clean Architecture**
-- **Firebase** (Authentication, Firestore, Cloud Messaging, Analytics)
+### 📱 Mobile Development
+- **Flutter** with **BLoC** and **Clean Architecture**
+- Firebase integrations: **Authentication**, **Firestore**, **Cloud Messaging**, **Analytics**
 
-### 🖥 Backend & Databases
-- **Laravel**, **Node.js**, **REST APIs**
-- **MySQL**, **PostgreSQL**, **MongoDB**
-- **JWT**, **OAuth 2.0** for secure auth flows
+### 🖥 Backend & Database
+- **Laravel**, **Node.js**, **RESTful APIs**
+- Databases: **MySQL**, **PostgreSQL**, **MongoDB**
+- Authentication: **JWT**, **OAuth 2.0**, **Laravel Sanctum**
 
-### ⚙️ DevOps & Tools
-- **Git**, **GitHub**, **GitLab**
-- **CI/CD** with GitHub Actions
-- **Postman**
+### ⚙️ DevOps & Tooling
+- Version Control: **Git**, **GitHub**, **GitLab**
+- CI/CD: **GitHub Actions**
+- API Testing & Collaboration: **Postman**, **Thunder Client**
+- Project Management: **Trello**, **Notion**
 
 ---
 
-## 🛠 Favorite Tools
+## 🛠 Favorite Tools & Technologies
 
-### 💻 Languages
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
+### 💻 Programming Languages
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 
 ### 📚 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) 
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square) 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF007C?logo=framer&logoColor=white&style=flat-square)
 
-### ☁️ Cloud & DB
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) 
+### ☁️ Cloud Services & Databases
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+---
+
+> 💡 *Constantly learning and evolving with the ever-changing tech landscape.*
+
 
 ---
 
@@ -94,13 +106,28 @@ Multi-vendor eCommerce system with product management and payments.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![Amdebirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amde-asme-prog&show_icons=true&theme=radical)
+A snapshot of my GitHub activity showcasing dedication to clean code, collaboration, and continuous learning.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amde-asme-prog&layout=compact)](https://github.com/amde-asme-prog/github-readme-stats)
+### 🔥 Contribution Highlights
 
----
+![Amdebirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amde-asme-prog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues)
+
+### 📈 Language Proficiency
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amde-asme-prog&layout=compact&theme=radical&langs_count=8&hide_progress=false)
+
+### 🚀 Coding Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amde-asme-prog&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- Optional: GitHub Trophies -->
+### 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amde-asme-prog&theme=radical&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## 🔗 Let's Connect!
 
