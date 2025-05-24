@@ -112,9 +112,6 @@ Multi-vendor eCommerce system with product management and payments.
 
 A snapshot of my GitHub activity showcasing dedication to clean code, collaboration, and continuous learning.
 
-### 🔥 Contribution Highlights
-
-![Amdebirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amde-asme-prog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues)
 
 ### 📈 Language Proficiency
 
