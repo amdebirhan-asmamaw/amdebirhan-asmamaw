@@ -1,6 +1,11 @@
-# 👋 Hello, I'm Amdebirhan Asmamaw
+# 👋 Hello, I'm Amdebirhan Asmamaw  
 
-Welcome to my GitHub profile! I'm a dedicated **Full-Stack & Mobile Developer** who builds modern, scalable, and user-focused applications. From robust web platforms using **Next.js**, **TypeScript**, and **Laravel**, to elegant mobile apps with **Flutter**, I turn innovative ideas into seamless digital experiences that solve real-world problems.
+Welcome to my GitHub!  
+I'm a passionate **Full-Stack & Mobile Developer** who builds modern, scalable, and user-focused applications.  
+
+On the web side, I specialize in the **MERN stack** — crafting robust backends with **Node.js** & **Express.js**, efficient databases with **MongoDB**, and dynamic frontends with **React.js** & **Next.js**.  
+
+Beyond the web, I also develop elegant **Flutter** mobile apps and work with **Laravel** for PHP-based solutions. My goal is to transform ideas into seamless digital experiences that solve real-world problems.  
 
 ![Profile views](https://komarev.com/ghpvc/?username=amde-asme-prog&color=green)
 
@@ -41,11 +46,10 @@ Feel free to explore my repositories or reach out to collaborate on meaningful p
 - **Flutter** with **BLoC** and **Clean Architecture**
 - Firebase integrations: **Authentication**, **Firestore**, **Cloud Messaging**, **Analytics**
 
-### 🖥 Backend & Database
-
-- **Laravel**, **Node.js**, **RESTful APIs**
-- Databases: **MySQL**, **PostgreSQL**, **MongoDB**
-- Authentication: **JWT**, **OAuth 2.0**, **Laravel Sanctum**
+### 🖥 Backend & Databases  
+- **Node.js**, **Express.js**,**Laravel**,  **REST APIs**  
+- Databases: **MongoDB**, **PostgreSQL**, **MySQL**  
+- Authentication: **JWT**, **OAuth 2.0**, **NextAuth.js**, **Laravel Sanctum** 
 
 ### ⚙️ DevOps & Tooling
 - Version Control: **Git**, **GitHub**, **GitLab**
