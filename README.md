@@ -35,27 +35,42 @@ Beyond the web, I also develop elegant **Flutter** mobile apps and work with **L
 Feel free to explore my repositories or reach out to collaborate on meaningful projects!
 
 ---
-## 🧰 Tech Stack
+## 🔑 Key Skills & Expertise  
 
-### 👨‍💻 Frontend Development
-- **React.js**, **Next.js**, **shadcn/ui**, **Tailwind CSS**
-- **Redux Toolkit** and **TanStack Query** for scalable state and data management
-- **Framer Motion** for advanced animations and micro-interactions
+### 🌐 Web Development  
+- Proficient in **React.js**, **Next.js**, and **Tailwind CSS** for responsive, interactive, and high-performance user interfaces.  
+- Strong **backend expertise** in **Node.js (Express.js)** and **Laravel (PHP)** for REST API development, authentication, server-side logic, and role-based access control.  
+- Skilled in **RESTful API integration**, **GraphQL basics**, and real-time communication (WebSockets/Firebase).  
+- Experienced with **database design & management** using **MongoDB**, **MySQL**, and **PostgreSQL**.  
 
-### 📱 Mobile Development
-- **Flutter** with **BLoC** and **Clean Architecture**
-- Firebase integrations: **Authentication**, **Firestore**, **Cloud Messaging**, **Analytics**
+### 📱 Mobile Development  
+- Expert in **Flutter**, building cross-platform mobile apps with **Clean Architecture** and **BLoC** for scalability & maintainability.  
+- Built and deployed **multi-vendor eCommerce apps** with Flutter + Firebase, including authentication, payments, and product management.  
+- Strong knowledge of **UI/UX best practices** with smooth animations, intuitive interactions, and performance optimization.  
+- Proficient in **Firebase services**: Authentication, Firestore, Cloud Messaging, and Analytics.  
 
-### 🖥 Backend & Databases  
-- **Node.js**, **Express.js**,**Laravel**,  **REST APIs**  
-- Databases: **MongoDB**, **PostgreSQL**, **MySQL**  
-- Authentication: **JWT**, **OAuth 2.0**, **NextAuth.js**, **Laravel Sanctum** 
+### ⚙️ Backend Development  
+- Design and implementation of **REST APIs** with **Node.js & Express.js**.  
+- Authentication & authorization using **JWT**, **OAuth 2.0**, **NextAuth.js**, and **Laravel Sanctum**.  
+- Building secure, modular, and scalable server-side architectures.  
+- Optimizing queries and handling **data modeling** with MongoDB, MySQL, and PostgreSQL.  
+- Integrating **cloud functions** (Firebase, AWS Lambda) for serverless backend solutions.  
+
+## 🛠 Additional Strengths  
+- Attention to detail with clean, maintainable, and well-structured code.  
+- Passionate about continuous learning and staying up-to-date with modern tools & frameworks.  
+- Experience with **cloud deployment** (AWS, Firebase, Supabase) and **CI/CD pipelines** (GitHub Actions, GitLab CI).  
+- Fluent in **English** and **Amharic**, ensuring effective communication in diverse teams. 
 
 ### ⚙️ DevOps & Tooling
 - Version Control: **Git**, **GitHub**, **GitLab**
 - CI/CD: **GitHub Actions**
 - API Testing & Collaboration: **Postman**, **Thunder Client**
 - Project Management: **Trello**, **Notion**
+
+### 🤝 Problem-Solving & Collaboration  
+- Strong analytical thinker with proven problem-solving skills for complex technical challenges.  
+- Effective **team player & communicator**, thriving in collaborative, agile environments while delivering independent contributions.  
 
 ---
 
