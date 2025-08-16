@@ -42,6 +42,7 @@ Feel free to explore my repositories or reach out to collaborate on meaningful p
 - Firebase integrations: **Authentication**, **Firestore**, **Cloud Messaging**, **Analytics**
 
 ### 🖥 Backend & Database
+
 - **Laravel**, **Node.js**, **RESTful APIs**
 - Databases: **MySQL**, **PostgreSQL**, **MongoDB**
 - Authentication: **JWT**, **OAuth 2.0**, **Laravel Sanctum**
@@ -65,6 +66,8 @@ Feel free to explore my repositories or reach out to collaborate on meaningful p
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square)
