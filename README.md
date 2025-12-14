@@ -24,8 +24,6 @@ Beyond the web, I also develop elegant **Flutter** mobile apps and work with **L
 - 🧠 **Exploring**: Microservices architecture, advanced UI animations, Clean Architecture, and secure backend integrations
 - 👀 **Open To**: Opportunities in **Frontend**, **Full-Stack Development**, or **Mobile Development**, especially those involving modern JavaScript ecosystems
 - 📍 **Location**: Addis Ababa, Ethiopia
-- 📬 **Let's Connect**: [LinkedIn](https://linkedin.com/in/amdebirhan-asmamaw) | [Website](https://amdebirhan.vercel.app)
-
 ---
 
 ## 🚀 What I'm Building Right Now
