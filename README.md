@@ -58,6 +58,10 @@ I build production-grade web and mobile systems with clear architecture, secure 
 ## GitHub Snapshot
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amde-asme-prog&show_icons=true&hide_border=true&title_color=0F172A&icon_color=334155&text_color=334155&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amde-asme-prog&layout=compact&hide_border=true&title_color=0F172A&text_color=334155&bg_color=00000000" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amde-asme-prog&theme=github" alt="GitHub profile details" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amde-asme-prog&theme=github" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amde-asme-prog&theme=github" alt="Most commit language" />
 </p>
