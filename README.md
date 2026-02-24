@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=🚀%20Building%20scalable%20digital%20experiences;🔒%20Crafting%20secure%20and%20robust%20systems;⚡%20Optimizing%20performance%20and%20user%20experience;🎯%20Transforming%20ideas%20into%20production%20software&color=FF6B6B&background=FFFFFF00" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1100&center=true&vCenter=true&width=860&lines=Designing+secure+systems+with+clean+architecture.;Building+high-performance+web+and+mobile+products.;Turning+business+goals+into+reliable+software." alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -151,27 +151,38 @@ Passionate **Full-Stack and Mobile Developer** specializing in architecting secu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdebirhan-asmamaw&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=96CEB4&radius=8" alt="Activity graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amdebirhan-asmamaw&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub trophies" />
-</p>
-
----
-
-## 🤝 Let's Connect!
+## 🤝 Let's Build Something Amazing Together
 
 <div align="center">
-  <p>I'm always excited to collaborate on innovative projects and connect with fellow developers!</p>
+  <p>
+    <strong>I'm passionate about collaborating on innovative projects that push the boundaries of web and mobile development.</strong><br>
+    Whether you're looking for a technical partner, need expertise on a challenging project, or want to discuss the latest in tech trends - I'm here to help turn ambitious ideas into reality.
+  </p>
   
-  <img src="https://raw.githubusercontent.com/muhammadshoaibshaikh/muhammadshoaibshaikh/main/assets/Handshake.gif" width="100" alt="Handshake" />
+  <p align="center">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+  </a>
+  <a href="https://github.com/amdebirhan-asmamaw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/yourusername" target="_blank">Let's connect professionally</a><br>
+  <strong>📧 Email:</strong> <a href="mailto:your.email@example.com" target="_blank">your.email@example.com</a><br>
+  <strong>🐙 GitHub:</strong> <a href="https://github.com/amdebirhan-asmamaw" target="_blank">Explore my work</a>
+</p>
   
   <p>
-    <strong>📧 Email:</strong> your.email@example.com<br>
-    <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a><br>
-    <strong>🐙 GitHub:</strong> <a href="https://github.com/amdebirhan-asmamaw" target="_blank">github.com/amdebirhan-asmamaw</a>
+    <em>"Great things in business are never done by one person; they're done by a team of people." - Steve Jobs</em>
+  </p>
+  
+  <p>
+    <strong>🚀 Open to:</strong> Full-time opportunities | Freelance projects | Technical consulting | Open-source collaborations
   </p>
 </div>
 
