@@ -173,7 +173,7 @@ Passionate **Full-Stack and Mobile Developer** specializing in architecting secu
 
 <p align="center">
   <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/amdebirhan-asmamaw" target="_blank">Let's connect professionally</a><br>
-  <strong>📧 Email:</strong> <a href="mailto:amdebrhanasmamaw93@gmail.com" target="_blank">your.email@example.com</a><br>
+  <strong>📧 Email:</strong> <a href="mailto:amdebrhanasmamaw93@gmail.com" target="_blank">amdebrhanasmamaw93@gmail.com</a><br>
   <strong>🐙 GitHub:</strong> <a href="https://github.com/amdebirhan-asmamaw" target="_blank">Explore my work</a>
 </p>
   
