@@ -160,10 +160,10 @@ Passionate **Full-Stack and Mobile Developer** specializing in architecting secu
   </p>
   
   <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/amdebirhan-asmamaw target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:amdebrhanasmamaw93@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
   </a>
   <a href="https://github.com/amdebirhan-asmamaw" target="_blank">
@@ -172,8 +172,8 @@ Passionate **Full-Stack and Mobile Developer** specializing in architecting secu
 </p>
 
 <p align="center">
-  <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/yourusername" target="_blank">Let's connect professionally</a><br>
-  <strong>📧 Email:</strong> <a href="mailto:your.email@example.com" target="_blank">your.email@example.com</a><br>
+  <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/amdebirhan-asmamaw" target="_blank">Let's connect professionally</a><br>
+  <strong>📧 Email:</strong> <a href="mailto:amdebrhanasmamaw93@gmail.com" target="_blank">your.email@example.com</a><br>
   <strong>🐙 GitHub:</strong> <a href="https://github.com/amdebirhan-asmamaw" target="_blank">Explore my work</a>
 </p>
   
