@@ -29,10 +29,6 @@
 
 ## 🌟 Professional Profile
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 Passionate **Full-Stack and Mobile Developer** specializing in architecting secure, scalable digital products with exceptional quality. I bridge frontend elegance, backend robustness, and mobile innovation to deliver comprehensive solutions that drive business success.
 
 <table align="center">
