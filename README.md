@@ -64,10 +64,6 @@ My work sits at the intersection of product thinking and engineering execution, 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amdebirhan-asmamaw&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdebirhan-asmamaw&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
